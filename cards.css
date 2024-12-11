@@ -1,0 +1,66 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: Baskerville;
+   
+}
+.product-1{
+
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 400;
+    font-style:normal;
+    font-family: serif;
+    
+}
+.card-1{
+
+    width: 270px;
+    height: 350px;
+   box-shadow: 0px 2px 6px 0px grey;
+   margin:30px 40px 0px 40px;
+   
+  
+   
+
+}
+.card-1-img{
+    
+    height: 50%;
+    background-image: url(pexels-algrey-3705529.jpg);
+    background-repeat: no-repeat;
+    background-position: cneter center;
+    background-size: cover;
+    
+   
+    
+
+}
+.card-1-txt{
+    width: 100%;
+    height: 25%;
+    text-align: center;
+    color: black;
+}
+.card-1-txt-icons{
+    color: orange;
+    text-align: center;
+}
+
+.products-card{
+    display: flex;
+   
+}
+.card-1-txt-buttons{
+    background-color: red;
+   
+    width: 100%;
+    height: 30px;
+}
+.card-1-txt-buttons h3 a{
+    text-decoration: none;
+    color: white;
+}
